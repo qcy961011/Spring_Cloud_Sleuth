@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/zipkin_server/pom.xml" />
+        <option value="$PROJECT_DIR$/another_zipkin_server/pom.xml" />
       </list>
     </option>
   </component>
