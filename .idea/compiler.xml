@@ -6,12 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="another_zipkin_server" />
+        <module name="eureka_server" />
+        <module name="gateway_server" />
         <module name="Spring_Cloud_Sleuth" />
+        <module name="user_server" />
         <module name="zipkin_server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="another_zipkin_server" target="1.8" />
       <module name="zipin_server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
