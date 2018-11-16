@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka_server" />
         <module name="gateway_server" />
+        <module name="rabbit_server" />
         <module name="Spring_Cloud_Sleuth" />
         <module name="user_server" />
         <module name="zipkin_server" />

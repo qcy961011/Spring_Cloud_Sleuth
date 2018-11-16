@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/zipkin_server/pom.xml" />
         <option value="$PROJECT_DIR$/user_server/pom.xml" />
         <option value="$PROJECT_DIR$/gateway_server/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit_server/pom.xml" />
       </list>
     </option>
   </component>

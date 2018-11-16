@@ -13,6 +13,7 @@
         <module>eureka_server</module>
         <module>user_server</module>
         <module>gateway_server</module>
+        <module>rabbit_server</module>
     </modules>
 
     <parent>
